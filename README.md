@@ -443,6 +443,6 @@ For quick examiner evaluation and testing, the following accounts are pre-config
 ## 14. Repository & Project Links
 
 - **Live Project URL**: `[Add after deployment]`
-- **GitHub Repository**: `[Add after GitHub upload]`
-- **Author**: StayNest Academic Engineering Team
+- **GitHub Repository**: [https://github.com/shetty658/student-accommodation](https://github.com/shetty658/student-accommodation)
+- **Author**: AKSHAN SHETTY ([@shetty658](https://github.com/shetty658))
 - **License**: MIT License © 2026 StayNest. All rights reserved.
