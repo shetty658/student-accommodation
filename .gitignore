@@ -1,0 +1,31 @@
+# StayNest Git Ignore
+
+# Environment & Credentials
+.env
+.env.local
+
+# Database SQLite files & local test files
+*.sqlite
+*.sqlite3
+*.db
+
+# Node dependencies & logs
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vite build cache
+.vite/
+
+# Operating System & IDE files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.suo
+*.user
+
+# PHP temporary & error logs
+error_log
+php_errors.log
